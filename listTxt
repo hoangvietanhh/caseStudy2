@@ -1,0 +1,9 @@
+Developer{Staff Code= CG1111, Name= Quanh, Date of birth= 11/12/1997, Gender= male, Phone Number= 0123456789, Basic Rate= 1000000, Work place= First floor, Over time=20, Rate per hour=200000}
+Developer{Staff Code= CG2222, Name= Tho, Date of birth= 8/3/1999, Gender= female, Phone Number= 0123456789, Basic Rate= 1000000, Work place= Second floor, Over time=15, Rate per hour=200000}
+Tester{Staff Code= CG3333, Name= Nguyen, Date of birth= 11/10/1996, Gender= male, Phone Number= 0123456788, Basic Rate= 1500000, Work place= Third floorNumber Of Bug Found=20, Rate per bug=50000}
+Tester{Staff Code= CG4444, Name= Tuấn Anh, Date of birth= 27/7/1995, Gender= male, Phone Number= 0123456789, Basic Rate= 2500000, Work place= Third floorNumber Of Bug Found=30, Rate per bug=50000}
+Tester{Staff Code= CG5555, Name= Hoàng, Date of birth= 29/2/2020, Gender= male, Phone Number= 0123456789, Basic Rate= 3000000, Work place= First floorNumber Of Bug Found=50, Rate per bug=50000}
+Sale{Staff Code= CG6666, Name= Hải, Date of birth= 2/3/1995, Gender= male, Phone Number= 0123456789, Basic Rate= 2000000, Work place= Second floor, Number of Customer=50}
+Sale{Staff Code= CG7777, Name= Tùng, Date of birth= 4/8/1992, Gender= female, Phone Number= 0123456789, Basic Rate= 3000000, Work place= First floor, Number of Customer=250}
+Sale{Staff Code= CG8888, Name= Dũng , Date of birth= 2/10/1996, Gender= female, Phone Number= 0123456789, Basic Rate= 2200000, Work place= Third floor, Number of Customer=500}
+Developer{Staff Code= CG1545, Name= Nguen, Date of birth= 11/12/2020, Gender= male, Phone Number= 0123456789, Basic Rate= 2000000, Work place= Second floor, Over time=20, Rate per hour=200000}
